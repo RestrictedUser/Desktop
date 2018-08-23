@@ -1,0 +1,71 @@
+
+
+h1 {
+
+    font-family: 'Poppins', sans-serif;
+    font-size:18px;
+    font-weight: 10px;
+    line-height:2px;
+    letter-spacing: 0px;
+    text-align: center;
+    
+
+}
+
+
+body {
+
+    background-image: url("backgroundTree.jpg");
+}
+
+p {
+
+    font-family: 'Lobster', cursive;
+    font-size:18px;
+    font-weight: 10px;
+    line-height:18px;
+    letter-spacing: 0px;
+    color:white;
+}
+
+.paraTwo {
+
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size:18px;
+    font-weight: 10px;
+    line-height:18px;
+    letter-spacing: 0px;
+}
+
+
+
+
+.paraOne:hover {
+
+    font-family:fantasy;
+
+}
+
+
+.paraTwo:active {
+
+    background-color: blue;
+    font-family: cursive;
+
+}
+
+i:active {
+
+    font-size:200px;
+    text-align:center;
+    background-color:blue;
+    color:red;
+}
+
+div{
+
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
